@@ -1,7 +1,7 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://[DOMINIO]/sitemap.xml
+Sitemap: https://smoke-test-gate-1779804992107.com.br/sitemap.xml
 
 # Paths privados
 Disallow: /admin/
